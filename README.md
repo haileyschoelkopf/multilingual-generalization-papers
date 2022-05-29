@@ -1,14 +1,19 @@
 # multilingual-generalization-papers
-This is a list of papers I'm taking a look at that pertain to improving the performance of multilingual LMs. Last updated: 5/26/22
+This is a list of papers I'm taking a look at that pertain to improving the performance of multilingual LMs. Last updated: 5/29/22
 
 
 ## Prompting Multilingual LMs
 
-- Discrete and Soft Prompting for Multilingual Models (https://arxiv.org/pdf/2109.03630.pdf)
-- Zero-shot Cross-lingual Transfer of Prompt-based Tuning
-with a Unified Multilingual Prompt (https://arxiv.org/pdf/2202.11451.pdf)
+
 - Few-shot Learning with Multilingual Language Models (https://arxiv.org/pdf/2112.10668.pdf)
 - Language Models are Few-shot Multilingual Learners (https://arxiv.org/pdf/2109.07684.pdf)
+- Polyglot Prompt: Multilingual Multitask PrompTraining (https://arxiv.org/pdf/2204.14264.pdf)
+- Discrete and Soft Prompting for Multilingual Models (https://arxiv.org/pdf/2109.03630.pdf)
+- Zero-shot Cross-lingual Transfer of Prompt-based Tuning with a Unified Multilingual Prompt (https://arxiv.org/pdf/2202.11451.pdf)
+- Enhancing Cross-lingual Prompting with Two-level Augmentation (https://openreview.net/pdf?id=ByVyEk50138)
+- MSP: Multi-Stage Prompting for Making Pre-trained Language Models Better Translators(https://openreview.net/pdf?id=Uhnw1smvKt)
+- A Closer Look at Few-Shot Crosslingual Transfer: The Choice of Shots Matters (https://aclanthology.org/2021.acl-long.447.pdf)
+
 
 
 ## Extending / Adapting Multilingual LMs to new languages
